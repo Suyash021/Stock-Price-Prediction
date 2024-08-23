@@ -8,4 +8,4 @@
 
 ## In Data_Collection.py I have imported the required Data in the csv file from the Yfinance Module. 
 
-## For actual task of creating a PRediction Model I have Used LSTM Algorithm and also to Process the Data and visualization i have used libraries like Numpy , Matplotlib , Seaborne, Sci-kit learn ,Pandas and Keras tensorflow for Training the model.
+## For actual task of creating a Prediction Model I have Used LSTM Algorithm and also to Process the Data and visualization i have used libraries like Numpy , Matplotlib , Seaborne, Sci-kit learn ,Pandas and Keras tensorflow for Training the model.
